@@ -1,6 +1,6 @@
 # main text of home
 name: Doug Marcum
-bio: A Man who travels the world eating noodles
+bio: Traveling, Eating, and Playing with Data
 
 # twitter summary info
 description: A site about data and other things
@@ -55,7 +55,7 @@ email: cdmarcum@mac.com
 authors:
   dougmarcum:
     name: Doug Marcum
-    bio: A Man who travels the world eating noodles
+    bio: Traveling, Eating, and Playing with Data
     external-image: false
     picture: assets/images/headshot.png
     twitter: johndoe
