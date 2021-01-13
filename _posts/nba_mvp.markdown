@@ -4,6 +4,7 @@ layout: post
 tag: 
 - predictive analytics
 - R
+date: 2016-01-23
 image: assets/images/mvp.jpg
 headerImage: true
 hidden: true # don't count this post in blog pagination
