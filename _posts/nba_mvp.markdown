@@ -7,10 +7,10 @@ tag:
 date: 2016-01-23
 image: assets/images/mvp.jpg
 headerImage: true
+projects: true
 hidden: true # don't count this post in blog pagination
 description: "Can the MVP be predicted before the vote is taken"
 category: projects
-projects: true
 author: dougmarcum
 externalLink: false
 ---
