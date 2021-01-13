@@ -16,7 +16,7 @@ author: dougmarcum
 externalLink: false
 ---
 
-![Screenshot](/assets/images/mvp.jpg)
+![Screenshot](/assets/images/nfl_bet.jpg)
 
 ## NBA MVP Prediction  
 The National Basketball Association (NBA) is a professional basketball league in North America comprising 30 franchises, of which 29 are in the United States and one in Canada. 
