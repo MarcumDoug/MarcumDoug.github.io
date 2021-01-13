@@ -16,7 +16,7 @@ author: dougmarcum
 externalLink: false
 ---
 
-![Screenshot](/assets/images/infographic.png)
+![Screenshot](/assets/images/airplane.png)
 
 ## Airline Visualizations    
 
