@@ -1,8 +1,10 @@
 ---
 title: ":basketball: NBA MVP Prediction"
 layout: post
-tag: predictive analytics, R
-data: 2021-01-12
+tag: 
+- predictive analytics
+- R
+data: 2021-01-12 22:44
 image: assets/images/mvp.jpg
 headerImage: true
 hidden: true # don't count this post in blog pagination
