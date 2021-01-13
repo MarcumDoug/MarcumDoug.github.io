@@ -1,5 +1,5 @@
 ---
-title: ":building: Toronto Crime Relationships"
+title: ":city: Toronto Crime Relationships"
 layout: post
 date: 2020-05-30 10:00
 tag: 
