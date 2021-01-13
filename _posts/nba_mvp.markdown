@@ -31,4 +31,4 @@ The purpose of this project is to see if there is an unwritten criterion that is
 What has inside?  
 [Code](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Code)  
 [Data](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Data)  
-[Final Results / Report](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Report)
+[Final Results/Report](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Report)
