@@ -1,7 +1,7 @@
 ---
 title: ":basketball: NBA MVP Prediction"
 layout: post
-date: 2020-01-13 09:11
+date: 2020-02-26 09:11
 tag: 
 - predictive analytics
 - R
