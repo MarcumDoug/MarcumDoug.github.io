@@ -19,7 +19,7 @@ externalLink: false
 
 ## Toronto Crime Relationships   
 
-A report gathering and reviewing multiple sources, by different means, to determine various relationships withing Toronto.  
+A report gathering and reviewing multiple sources, by different means, to determine various relationships within Toronto.  
 
 ## Data - Sources and Descriptions  
 
