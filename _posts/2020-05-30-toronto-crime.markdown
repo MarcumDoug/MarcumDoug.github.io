@@ -3,10 +3,9 @@ title: ":canada: Toronto Crime Relationships"
 layout: post
 date: 2020-05-30 10:00
 tag: 
-- marketing
+- visualizations
 - python
-- R
-- machine learning
+- folium
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
