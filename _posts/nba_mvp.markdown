@@ -10,6 +10,7 @@ headerImage: true
 hidden: true # don't count this post in blog pagination
 description: "Can the MVP be predicted before the vote is taken?"
 category: project
+projects: true
 author: dougmarcum
 externalLink: false
 ---
