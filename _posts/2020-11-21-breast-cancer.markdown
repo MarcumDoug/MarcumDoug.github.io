@@ -1,5 +1,5 @@
 ---
-title: ":health: Breast Cancer Analysis and Predictions"
+title: ":hospital: Breast Cancer Analysis and Predictions"
 layout: post
 date: 2020-11-21 20:00
 tag: 
