@@ -14,7 +14,7 @@ externalLink: false
 
 ![Screenshot](https://github.com/MarcumDoug/MarcumDoug.github.io/blob/gh-pages/assets/images/mvp.jpg)
 
-NBA MVP Prediction
+## NBA MVP Prediction  
 The National Basketball Association (NBA) is a professional basketball league in North America comprising 30 franchises, of which 29 are in the United States and one in Canada. 
 The league has grown from its humble beginnings to a global enterprise generating in excess of $8 billion in annual revenue. 
 A major component to the rise in popularity of the sport has been directly attributed to the aggressive player centric marketing initiative. 
@@ -26,7 +26,7 @@ The purpose of this project is to see if there is an unwritten criterion that is
 
 ---
 
-What has inside?
+What has inside?  
 [Code](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Code)  
 [Data](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Data)  
-[Report](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Report)
+[Final Results / Report](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Report)
