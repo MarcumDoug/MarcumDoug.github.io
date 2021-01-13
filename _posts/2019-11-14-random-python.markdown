@@ -24,6 +24,6 @@ A collection of various pythong projects I assembled while becoming more comfort
 ---
 
 What is inside?  
-
-Projects included: Weather Information, Word Counter, Calculator, Joke Generator  
+ 
 [Code](https://github.com/MarcumDoug/Python_Code_Projects)  
+Projects included: Weather Information, Word Counter, Calculator, Joke Generator 
