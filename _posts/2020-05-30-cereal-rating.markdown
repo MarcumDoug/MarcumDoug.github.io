@@ -1,5 +1,5 @@
 ---
-title: ":cereal: Cereal Consumer Rating"
+title: ":breakfast: Cereal Consumer Rating"
 layout: post
 date: 2020-05-30 10:00
 tag: 
