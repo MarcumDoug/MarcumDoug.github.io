@@ -1,5 +1,5 @@
 ---
-title: ":bowl_with_spoon: Cereal Consumer Rating"
+title: ":spoon: Cereal Consumer Rating"
 layout: post
 date: 2020-05-30 10:00
 tag: 
