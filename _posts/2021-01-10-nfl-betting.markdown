@@ -18,15 +18,10 @@ externalLink: false
 
 ![Screenshot](/assets/images/nfl_bet.jpg)
 
-## NBA MVP Prediction  
-The National Basketball Association (NBA) is a professional basketball league in North America comprising 30 franchises, of which 29 are in the United States and one in Canada. 
-The league has grown from its humble beginnings to a global enterprise generating in excess of $8 billion in annual revenue. 
-A major component to the rise in popularity of the sport has been directly attributed to the aggressive player centric marketing initiative. 
-Fans often discuss and debate the accolades of specific players with greater passion than they do for the franchises they represent.  
+## NFL, Machine Learning, and Gambling  
+Sports betting is not a new phenomenon in the United States, but due to recent legislation, it is experiencing a surge. With 25 states now allowing their residents to wager on sporting events in varying capacities, consumers are searching for tools to assist in making predictions or rather, to gain an edge in their selection process. Resources are available, but often they are not validated, are high priced, and do not provide any true guidance. With the work being conducted under this proposal, the hope is that through data science, the average gambler can be informed in making their selections.  
 
-The league does a tremendous job of staying ahead of the curve in terms of advanced analytics, but when deciding the most valuable player (MVP), they leave everything to the opinions of 100 NBA selected media members. 
-Additionally, the league does not provide any criteria in the selection or voting process. Without a defined criterion, the argument for MVP is debated year after year. 
-The purpose of this project is to see if there is an unwritten criterion that is being followed, and once determined, can it be used to predict future MVPs. 
+By analyzing twenty, 20, NFL seasons consisting of 256 unique games each season, classification models can be implemented and tested to see if accuracy rates exceeding 52.4% can consistently be processed. If this is successful, future research into other professional arenas (basketball, baseball, soccer, hockey) can be reviewed. Sports betting, once considered to be taboo and sinful, has grown into a true corporate enterprise. Given this overall popularity, the field is just being explored, and the need for data scientist to engage and discover insights will continue to increase. This paper illustrates that machine learning can successfully predict winning and losing teams (approximate accuracy of 65%), as well as provide an edge in predicting if a team will cover a spread or if a game will be under or over an estimated total score.  
 
 ---
 
