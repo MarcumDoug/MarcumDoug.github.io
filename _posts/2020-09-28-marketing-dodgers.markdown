@@ -22,8 +22,8 @@ externalLink: false
 
 Using the Dodgers Major League Baseball data from 2012, analysis was completed to determine which night would be the best to run a marketing promotion to increase attendance.  
 
-Python - EDA and data cleaning.  
-R - modeling and analysis.  
+Python - EDA and data cleaning  
+R - modeling and analysis  
 
 ---
 
