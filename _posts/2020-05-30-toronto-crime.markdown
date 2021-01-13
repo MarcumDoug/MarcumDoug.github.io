@@ -1,5 +1,5 @@
 ---
-title: ":tower: Toronto Crime Relationships"
+title: ":canada: Toronto Crime Relationships"
 layout: post
 date: 2020-05-30 10:00
 tag: 
