@@ -1,5 +1,5 @@
 ---
-title: ":football: Nfl Gambling"
+title: ":football: NFL Gambling"
 layout: post
 date: 2021-01-10 10:00
 tag: 
