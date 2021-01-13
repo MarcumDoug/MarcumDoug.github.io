@@ -58,7 +58,6 @@ authors:
     bio: Traveling, Eating, and Playing with Data
     external-image: false
     picture: assets/images/headshot.png
-    twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -74,6 +73,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
+#projects: true
 portfolio: true
 
 # if you don't need "about" or "blog", comment them out below
