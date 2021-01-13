@@ -1,5 +1,5 @@
 ---
-title: ":siren: Toronto Crime Relationships"
+title: ":tower: Toronto Crime Relationships"
 layout: post
 date: 2020-05-30 10:00
 tag: 
