@@ -26,7 +26,7 @@ By analyzing twenty, 20, NFL seasons consisting of 256 unique games each season,
 ---
 
 What is inside?  
-[Data](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Data)
+[Data](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Data)  
 [Exploratory Data Analysis](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/EDA)  
 [Models](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Models)  
 [Final Results](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Results)  
