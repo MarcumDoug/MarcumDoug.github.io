@@ -5,7 +5,7 @@ date: 2020-01-13 09:11
 tag: 
 - predictive analytics
 - R
-image: assets/images/mvp.jpg
+image: https://github.com/MarcumDoug/MarcumDoug.github.io/blob/gh-pages/assets/images/mvp.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -15,7 +15,7 @@ author: dougmarcum
 externalLink: false
 ---
 
-![Screenshot](assets/images/mvp.jpg)
+![Screenshot](https://github.com/MarcumDoug/MarcumDoug.github.io/blob/gh-pages/assets/images/mvp.jpg)
 
 ## NBA MVP Prediction  
 The National Basketball Association (NBA) is a professional basketball league in North America comprising 30 franchises, of which 29 are in the United States and one in Canada. 
