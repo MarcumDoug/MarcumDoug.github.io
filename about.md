@@ -38,11 +38,11 @@ layout: page
 
 <ul>
 	<li>Data Scientist with Python - DataCamp
-	<dd>[Certificate](https://www.datacamp.com/statement-of-accomplishment/track/69ad72f42720fe75ab27ac33644283403d75d970) - December 2020</dd></li>
+	<dd><a href="https://www.datacamp.com/statement-of-accomplishment/track/69ad72f42720fe75ab27ac33644283403d75d970">Certificate</a> - December 2020</dd></li>
 	<li>Python for Everybody - University of Michigan / Coursera
-	<dd>[Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/L9VNF5QV582R) - July 2019</dd></li>
+	<dd><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/L9VNF5QV582R">Certificate</a> - July 2019</dd></li>
 	<li>Customer Analytics - University of Pennsylvania / Coursera
-	<dd>{Certificate](https://www.coursera.org/account/accomplishments/certificate/ZBG8PB8PUGCR) - June 2019</dd></li>
+	<dd><a href="https://www.coursera.org/account/accomplishments/certificate/ZBG8PB8PUGCR">Certificate</a> - June 2019</dd></li>
 	<li>IBM Data Science Specialization - IBM/  Coursera
-	<dd>{Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QZUJQK6TX9FM) - May 2019</dd></li>
+	<dd><a href="(https://www.coursera.org/account/accomplishments/specialization/certificate/QZUJQK6TX9FM">Certificate</a> - May 2019</dd></li>
 </ul>
