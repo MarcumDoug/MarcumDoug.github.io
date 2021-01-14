@@ -4,19 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello, my name is Doug, and I am currently completing my capstone course for my Master of Data Science degree from Bellevue University. My background is a little unique for someone in the Data Science world, as I spent a number of years in talent acquisition, sales, management, and consulting. Even though the data was not supposed to be my focus, I was always more interested in combing through the data to uncover a new lead or undiscovered occurrence than anything else. From constructing dashboards to figuring our specific metrics for individual team members to improve their performance, I was pulled to the data. After years of self-training, I took the deep plunge and have immersed myself in the world of Data Science, Machine Learning, Deep Learning, and all things predictive.  I am eager to see what I will discover moving forward.</p>
 
 <h2>Skills</h2>
 
