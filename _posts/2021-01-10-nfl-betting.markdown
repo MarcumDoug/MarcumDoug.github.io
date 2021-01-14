@@ -29,5 +29,5 @@ What is inside?
 [Data](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Data)  
 [Exploratory Data Analysis](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/EDA)  
 [Models](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Models)  
-[Final Results](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Results)  
+[Final Results](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Results)  
 [Reports](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Reports)
