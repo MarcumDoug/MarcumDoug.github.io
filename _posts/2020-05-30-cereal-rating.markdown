@@ -19,10 +19,7 @@ externalLink: false
 
 ## Consumer Ratings for Various Breakfast Cereals  
 
-This project occurred at a time of global high stress, so this project is to be something lighthearted. I reviewed many medical, political, and sports focused datasets
-that all just seemed to serious. Luckily, I stumbled on the topic of cereal, an interesting and somewhat silly topic. The data for this case study is a list of 
-numerous brands of cereal by multiple manufacturers. While not all encompassing, the data is comprehensive enough to predict how a cereal might score with a consumer
-based on several variables/features.  
+<p align="justify">This project occurred at a time of global high stress, so this project is to be something lighthearted. I reviewed many medical, political, and sports focused datasets that all just seemed to serious. Luckily, I stumbled on the topic of cereal, an interesting and somewhat silly topic. The data for this case study is a list of numerous brands of cereal by multiple manufacturers. While not all encompassing, the data is comprehensive enough to predict how a cereal might score with a consumer based on several variables/features.</p>   
 
 ---
 
