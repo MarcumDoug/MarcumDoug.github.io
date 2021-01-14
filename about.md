@@ -43,6 +43,6 @@ layout: page
 	<dd><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/L9VNF5QV582R">Certificate</a> - July 2019</dd></li>
 	<li>Customer Analytics - University of Pennsylvania / Coursera
 	<dd><a href="https://www.coursera.org/account/accomplishments/certificate/ZBG8PB8PUGCR">Certificate</a> - June 2019</dd></li>
-	<li>IBM Data Science Specialization - IBM/  Coursera
+	<li>IBM Data Science Specialization - IBM / Coursera
 	<dd><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QZUJQK6TX9FM">Certificate</a> - May 2019</dd></li>
 </ul>
