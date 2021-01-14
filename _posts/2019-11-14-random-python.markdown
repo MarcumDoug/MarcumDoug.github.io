@@ -19,11 +19,11 @@ externalLink: false
 
 ## Assorted Python Code    
 
-A collection of various pythong projects I assembled while becoming more comfortble with the language.  
+A collection of various python projects I assembled while becoming more comfortble with the language.  
 
 ---
 
 What is inside?  
  
 [Code](https://github.com/MarcumDoug/Python_Code_Projects)  
-Projects included: Weather Information, Word Counter, Calculator, Joke Generator 
+Projects include: Weather Information, Word Counter, Calculator, Joke Generator 
