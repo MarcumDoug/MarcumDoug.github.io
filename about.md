@@ -25,19 +25,24 @@ layout: page
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
-
 <h2>Education</h2>
 
 <ul>
-	<li>Master of Science - Data Science
-		<dd>Bellevue University, March 2021, GPA 4.0</dd></li>
-	<li>Bachelor of Science - Political Science and Sociology
-		<dd>Ball State University, May 2000, GPA 3.0</dd></li>
+	<li>Master of Science in Data Science
+	<dd>Bellevue University, March 2021, GPA 4.0</dd></li>
+	<li>Bachelor of Science in Political Science and Sociology
+	<dd>Ball State University, May 2000, GPA 3.0</dd></li>
+</ul>
+
+<h2>Certifications</h2>
+
+<ul>
+	<li>Data Scientist with Python - DataCamp
+	<dd>[Certificate](https://www.datacamp.com/statement-of-accomplishment/track/69ad72f42720fe75ab27ac33644283403d75d970) - December 2020</dd></li>
+	<li>Python for Everybody - University of Michigan / Coursera
+	<dd>[Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/L9VNF5QV582R) - July 2019</dd></li>
+	<li>Customer Analytics - University of Pennsylvania / Coursera
+	<dd>{Certificate](https://www.coursera.org/account/accomplishments/certificate/ZBG8PB8PUGCR) - June 2019</dd></li>
+	<li>IBM Data Science Specialization - IBM/  Coursera
+	<dd>{Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QZUJQK6TX9FM) - May 2019</dd></li>
 </ul>
