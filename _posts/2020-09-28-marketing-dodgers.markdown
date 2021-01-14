@@ -20,7 +20,7 @@ externalLink: false
 
 ## Increasing Attendance for the Los Angeles Dodgers with the right Promotion  
 
-Using the Dodgers Major League Baseball data from 2012, analysis was completed to determine which night would be the best to run a marketing promotion to increase attendance.  
+<p align="justify">Using the Dodgers Major League Baseball data from 2012, analysis was completed to determine which night would be the best to run a marketing promotion to increase attendance.</p>    
 
 Python - EDA and data cleaning  
 R - modeling and analysis  
