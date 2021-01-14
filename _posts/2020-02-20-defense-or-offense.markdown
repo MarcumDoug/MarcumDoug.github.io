@@ -1,5 +1,5 @@
 ---
-title: ":basketball: Defense or Offense Win Championships"
+title: ":trophy: Defense or Offense Win Championships"
 layout: post
 date: 2020-02-20 10:00
 tag: 
