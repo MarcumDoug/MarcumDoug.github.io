@@ -32,3 +32,12 @@ layout: page
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+
+<h2>Education</h2>
+
+<ul>
+	<li>Master of Science - Data Science
+		Bellevue University, March 2021, GPA 4.0</li>
+	<li>Bachelor of Science - Political Science and Sociology
+		Ball State University, May 2000, GPA 3.0</li>
+</ul>
