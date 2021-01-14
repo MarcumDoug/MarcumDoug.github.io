@@ -21,15 +21,9 @@ externalLink: false
 ![Screenshot](/assets/images/block.jpg)
 
 ## Defense or Offense Win Championships   
-For this project, an evaluation of defensive importance within the National Basketball Association (NBA) was conducted, to determine if the adage of ‘Defense Wins Championships!’ remains accurate in today’s game. Since sports have been played and a score kept, there have been coaches, sideline parents, 
-armchair experts, and others declaring the importance of defense. While defense is an integral part of most team-oriented sports, is it the most important 
-aspect of winning? Does the best defense have a better chance at winning a championship in comparison to the best offense?  
+<p align="justify">For this project, an evaluation of defensive importance within the National Basketball Association (NBA) was conducted, to determine if the adage of ‘Defense Wins Championships!’ remains accurate in today’s game. Since sports have been played and a score kept, there have been coaches, sideline parents, armchair experts, and others declaring the importance of defense. While defense is an integral part of most team-oriented sports, is it the most important aspect of winning? Does the best defense have a better chance at winning a championship in comparison to the best offense?</p>  
 
-Many modern professional leagues have adapted over time to account for player safety, obtaining higher viewership/ratings, fan interest in higher scoring 
-games, and shortened attention spans. By doing so, gameplay has also changed from era to era. Athletes have increased in size and ability, creating discrepancies
-in performance when comparing eras. Taking into consideration these variations, the focus will be on the past decade (2009 – 2019) for evaluation. With many 
-professional leagues to choose from, it is believed the NBA provides some of the best data to capture and analyze. When evaluating the three major professional 
-sports in the US, Major League Baseball and the National Football League were eliminated based on the following:  
+<p align="justify">any modern professional leagues have adapted over time to account for player safety, obtaining higher viewership/ratings, fan interest in higher scoring games, and shortened attention spans. By doing so, gameplay has also changed from era to era. Athletes have increased in size and ability, creating discrepancies in performance when comparing eras. Taking into consideration these variations, the focus will be on the past decade (2009 – 2019) for evaluation. With many professional leagues to choose from, it is believed the NBA provides some of the best data to capture and analyze. When evaluating the three major professional sports in the US, Major League Baseball and the National Football League were eliminated based on the following:</p>    
 
   1.	National Football League – While defense plays a very vital role in football, it is one of three teams taking the field at any given point. 
   Being broken into camps of offense, special teams, and defense, to state that one is more important than the other takes away from the value provided by 
@@ -38,14 +32,10 @@ sports in the US, Major League Baseball and the National Football League were el
   be broken into team or individual elements. With basketball, pace of play is high and engagement in both offense and defense is required.  
 
 ## Data
-The data for this project was obtained from [Basketball-Reference.Com](www.basketball-reference.com/) (BRC). Each season was downloaded and saved to a CSV file.
-This was the simplest approach taken, due to time constraints. By doing so, the data files from BRC we evaluated and did not require additional data cleansing. A
-focus was placed on more advanced metrics being utilized by the NBA in determining the importance of defense in today's game.  
-
-A [Glossary of Terms](https://www.basketball-reference.com/about/glossary.html) can help expand on any variables this project does or does not utilize.  
+<p align="justify">The data for this project was obtained from [Basketball-Reference.Com](www.basketball-reference.com/) (BRC). Each season was downloaded and saved to a CSV file. This was the simplest approach taken, due to time constraints. By doing so, the data files from BRC we evaluated and did not require additional data cleansing. A focus was placed on more advanced metrics being utilized by the NBA in determining the importance of defense in today's game. A [Glossary of Terms](https://www.basketball-reference.com/about/glossary.html) can help expand on any variables this project does or does not utilize.</p>  
 
 ## Tools
-A standard EDA approach was taken. All coding was completed with Python within a Jupyter Notebook.  
+<p align="justify">A standard EDA approach was taken. All coding was completed with Python within a Jupyter Notebook.</p>  
 
 ---
 
