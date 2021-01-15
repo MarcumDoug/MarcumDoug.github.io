@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p align="justify">Hello, my name is Doug, and I am currently completing my capstone course for my Master of Data Science degree from Bellevue University. My background is a little unique for someone in the Data Science world, as I spent a number of years in talent acquisition, sales, management, and consulting. Even though the data was not supposed to be my focus, I was always more interested in combing through the data to uncover a new lead or undiscovered occurrence than anything else. From constructing dashboards to figuring our specific metrics for individual team members to improve their performance, I was pulled to the data. After years of self-training, I took the deep plunge and have immersed myself in the world of Data Science, Machine Learning, Deep Learning, and all things predictive.  I am eager to see what I will discover moving forward.</p>
+<p align="justify">Hello, my name is Doug, and I am currently completing my capstone course for my Masters in Data Science from Bellevue University. My background is a little unique in the Data Science world, as I have spent a number of years in talent acquisition, sales, management, and consulting, before switching gears. The data was never supposed to be my main focus in those roles, yet I was always more interested in combing through the it to uncover a new lead or an undiscovered pattern than doing anything else. From constructing dashboards to identifying key, specific metrics for individual team members to improve their performance, I seemed to keep finding myself knee deep in data. After years of tinkering, I took the plunge and have immersed myself in the world of Data Science, Machine Learning, Deep Learning, and all things predictive. I am eager to see what I will discover moving forward.</p>
 
 <style>
 dd { 
@@ -36,9 +36,10 @@ dd {
 
 <ul>
 	<li>Master of Science in Data Science
-	<dd>Bellevue University, March 2021, GPA 4.0</dd></li>
+	<dd>Bellevue University - GPA 4.0</dd>
+	<dd>Coursework included: Applied Statistics, Data Exploration and Analysis, Data Preparation, Data Mining, Predictive Analytics, Data Presentation and Visualization, and Big Data</dd></li>
 	<li>Bachelor of Science in Political Science and Sociology
-	<dd>Ball State University, May 2000, GPA 3.0</dd></li>
+	<dd>Ball State University - GPA 3.0</dd></li>
 </ul>
 
 <h2>Certifications</h2>
