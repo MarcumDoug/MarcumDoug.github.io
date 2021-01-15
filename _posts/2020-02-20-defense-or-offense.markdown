@@ -32,7 +32,7 @@ externalLink: false
   be broken into team or individual elements. With basketball, pace of play is high and engagement in both offense and defense is required.  
 
 ## Data
-<p align="justify">The data for this project was obtained from [Basketball-Reference.Com](www.basketball-reference.com/) (BRC). Each season was downloaded and saved to a CSV file. This was the simplest approach taken, due to time constraints. By doing so, the data files from BRC we evaluated and did not require additional data cleansing. A focus was placed on more advanced metrics being utilized by the NBA in determining the importance of defense in today's game. A [Glossary of Terms](https://www.basketball-reference.com/about/glossary.html) can help expand on any variables this project does or does not utilize.</p>  
+<p align="justify">The data for this project was obtained from <a href='www.basketball-reference.com'>Basketball-Reference.Com</a> (BRC). Each season was downloaded and saved to a CSV file. This was the simplest approach taken, due to time constraints. By doing so, the data files from BRC we evaluated and did not require additional data cleansing. A focus was placed on more advanced metrics being utilized by the NBA in determining the importance of defense in today's game. A <a href='https://www.basketball-reference.com/about/glossary.html'>Glossary of Terms</a> can help expand on any variables this project does or does not utilize.</p>  
 
 ## Tools
 <p align="justify">A standard EDA approach was taken. All coding was completed with Python within a Jupyter Notebook.</p>  
