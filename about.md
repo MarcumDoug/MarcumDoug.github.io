@@ -40,27 +40,19 @@ dd {
 
 <ul>
 	<li>Data Exploration, Extraction, Wrangling</li>
-	<li>Machine Learning
-		<dd>Supervised, Unsupervised, Reinforcement, Clustering, Deep Learning</dd></li>
-	<li>Statistical Analysis
-		<dd>Hypothesis and A/B Testing, Descriptive and Inferential Statistics</dd></li>
+	<li>Machine Learning: Supervised, Unsupervised, Reinforcement, Clustering, Deep Learning</li>
+	<li>Statistical Analysis: Hypothesis and A/B Testing, Descriptive and Inferential Statistics</li>
 </ul>
 
 <h2>Technical Skills</h2>
 
 <ul>
-	<li><b>Languages</b>
-		<dd>Python, R, SQL</dd></li>
-	<li>Data Analysis and Wrangling 
-		<dd>Numpy, Pandas, Excel, dplyr, tidyr</dd></li>
-	<li>Data Visualization
-		<dd>Matplotlib, Seaborn, Tableau, Plotly, Folium, ggplot2</dd></li>
-	<li>ML Frameworks
-		<dd>Scikit-Learn, TensorFlow, PyTorch</dd></li>
-	<li>Tools
-		<dd>GitHub, PyCharm, Jupyter Notebook, MS Office Suite</dd></li>
-	<li>Big Data Technologies (limited)
-		<dd>Hadoop, Hive, Spark, PySpark</dd></li>
+	<li>Languages: Python, R, SQL</li>
+	<li>Data Analysis and Wrangling: Numpy, Pandas, Excel, dplyr, tidyr</li>
+	<li>Data Visualization: Matplotlib, Seaborn, Tableau, Plotly, Folium, ggplot2</li>
+	<li>ML Frameworks: Scikit-Learn, TensorFlow, PyTorch</li>
+	<li>Tools: GitHub, PyCharm, Jupyter Notebook, MS Office Suite</li>
+	<li>Big Data Technologies (limited): Hadoop, Hive, Spark, PySpark</li>
 </ul>
 
 <h2>Business Skills</h2>
