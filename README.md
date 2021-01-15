@@ -1,4 +1,4 @@
-<p>Simple collection of my working using the template designed by Sérgio Kopplin, with modifications by me.</p>
+<p>Simple portfolio of my work using the template designed by Sérgio Kopplin, with modifications by me.</p>
 
 ---
 ## License
