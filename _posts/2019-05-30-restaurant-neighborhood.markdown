@@ -30,7 +30,7 @@ Completed report can be viewed [here.](https://github.com/MarcumDoug/Restaurant_
     <li>A neighborhood with an average to above average median total population</li>
     <li>Above average populations of 25-40-year-old male and female professionals</li>
     <li>A high concentration of the population having secondary education</li>
-    <li>Average to above average median net household incomes<li>   
+    <li>Average to above average median net household incomes</li>   
 </ul>
 
 <p align="justify">With these criteria given by the investing group, based on previous success in other markets, the objective is to locate and recommend to the investors, the target audience, which neighborhood(s) of Toronto will be the best choice to start their international growth plan. The information gained will assist in choosing the right location by providing data about the population of each neighborhood, in addition to other established venues present in these areas.</p>    
