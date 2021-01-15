@@ -49,7 +49,7 @@ dd {
 <h2>Technical Skills</h2>
 
 <ul>
-	<li>Languages
+	<li><b>Languages</b>
 		<dd>Python, R, SQL</dd></li>
 	<li>Data Analysis and Wrangling 
 		<dd>Numpy, Pandas, Excel, dplyr, tidyr</dd></li>
@@ -59,7 +59,7 @@ dd {
 		<dd>Scikit-Learn, TensorFlow, PyTorch</dd></li>
 	<li>Tools
 		<dd>GitHub, PyCharm, Jupyter Notebook, MS Office Suite</dd></li>
-	<li>Big Data Technologies(limited)
+	<li>Big Data Technologies (limited)
 		<dd>Hadoop, Hive, Spark, PySpark</dd></li>
 </ul>
 
