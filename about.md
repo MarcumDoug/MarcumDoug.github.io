@@ -13,25 +13,6 @@ dd {
 }
 </style>
 
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li> 
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
 <h2>Education</h2>
 
 <ul>
@@ -46,11 +27,47 @@ dd {
 
 <ul>
 	<li>Data Scientist with Python - DataCamp
-	<dd><a href="https://www.datacamp.com/statement-of-accomplishment/track/69ad72f42720fe75ab27ac33644283403d75d970">Certificate</a> - December 2020</dd></li>
+		<dd><a href="https://www.datacamp.com/statement-of-accomplishment/track/69ad72f42720fe75ab27ac33644283403d75d970">Certificate</a> - December 2020</dd></li>
 	<li>Python for Everybody - University of Michigan / Coursera
-	<dd><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/L9VNF5QV582R">Certificate</a> - July 2019</dd></li>
+		<dd><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/L9VNF5QV582R">Certificate</a> - July 2019</dd></li>
 	<li>Customer Analytics - University of Pennsylvania / Coursera
-	<dd><a href="https://www.coursera.org/account/accomplishments/certificate/ZBG8PB8PUGCR">Certificate</a> - June 2019</dd></li>
+		<dd><a href="https://www.coursera.org/account/accomplishments/certificate/ZBG8PB8PUGCR">Certificate</a> - June 2019</dd></li>
 	<li>IBM Data Science Specialization - IBM / Coursera
-	<dd><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QZUJQK6TX9FM">Certificate</a> - May 2019</dd></li>
+		  <dd><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QZUJQK6TX9FM">Certificate</a> - May 2019</dd></li>
+</ul>
+
+<h2>Data and Modeling Skills</h2>
+
+<ul>
+	<li>Data Exploration, Extraction, Wrangling</li>
+	<li>Machine Learning
+		<dd>Supervised, Unsupervised, Reinforcement, Clustering, Deep Learning</dd></li>
+	<li>Statistical Analysis
+		<dd>Hypothesis and A/B Testing, Descriptive and Inferential Statistics</dd></li>
+</ul>
+
+<h2>Technical Skills</h2>
+
+<ul>
+	<li>Languages
+		<dd>Python, R, SQL</dd></li>
+	<li>Data Analysis and Wrangling 
+		<dd>Numpy, Pandas, Excel, dplyr, tidyr</dd></li>
+	<li>Data Visualization
+		<dd>Matplotlib, Seaborn, Tableau, Plotly, Folium, ggplot2</dd></li>
+	<li>ML Frameworks
+		<dd>Scikit-Learn, TensorFlow, PyTorch</dd></li>
+	<li>Tools
+		<dd>GitHub, PyCharm, Jupyter Notebook, MS Office Suite</dd></li>
+	<li>Big Data Technologies(limited)
+		<dd>Hadoop, Hive, Spark, PySpark</dd></li>
+</ul>
+
+<h2>Business Skills</h2>
+
+<ul>
+	<li>Effective Communication and Deadline Management</li>
+	<li>Leadership and Stakeholder Management</li>
+	<li>Project Management and Oversight</li>
+	<li>Talent Acquisition</li>
 </ul>
