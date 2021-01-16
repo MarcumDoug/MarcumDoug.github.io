@@ -17,10 +17,10 @@ dd {
 
 <ul>
 	<li>Master of Science in Data Science
-	<dd>Bellevue University - GPA 4.0</dd>
+	<dd>Bellevue University - Bellevue, NE</dd>
 	<dd>Coursework included: Applied Statistics, Data Exploration and Analysis, Data Preparation, Data Mining, Predictive Analytics, Data Presentation and Visualization, and Big Data</dd></li>
 	<li>Bachelor of Science in Political Science and Sociology
-	<dd>Ball State University - GPA 3.0</dd></li>
+	<dd>Ball State University - Muncie, IN</dd></li>
 </ul>
 
 <h2>Certifications</h2>
@@ -61,5 +61,7 @@ dd {
 	<li>Effective Communication and Deadline Management</li>
 	<li>Leadership and Stakeholder Management</li>
 	<li>Project Management and Oversight</li>
-	<li>Talent Acquisition</li>
+	<li>Extensive Talent Acquisition Background</li>
+	<li>Creative and Perceptive Problem Solver </li>
+	<li>Passionate About Continuous Learning</li>
 </ul>
