@@ -52,7 +52,7 @@ dd {
 	<li>Data Visualization: Matplotlib, Seaborn, Tableau, Plotly, Folium, ggplot2</li>
 	<li>ML Frameworks: Scikit-Learn, TensorFlow, PyTorch</li>
 	<li>Tools: GitHub, PyCharm, Jupyter Notebook, MS Office Suite</li>
-	<li>Big Data Technologies (limited): Hadoop, Hive, Spark, PySpark</li>
+	<li>Big Data Technologies (limited): Hadoop, Spark, PySpark</li>
 </ul>
 
 <h2>Business Skills</h2>
