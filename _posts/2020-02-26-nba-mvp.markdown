@@ -8,7 +8,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Can the MVP be predicted before the vote is taken."
+description: "Can the NBA MVP be predicted based on no specified criteria from the league?"
 category: projects
 author: dougmarcum
 externalLink: false
