@@ -11,7 +11,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Machine Learning to determine breast cancer"
+description: "Machine learning can be used in the fight to diagnosis cancerous breast masses, thus increasing the likelihood of successful treatment."
 category: projects
 author: dougmarcum
 externalLink: false
