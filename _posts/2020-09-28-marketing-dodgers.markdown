@@ -10,7 +10,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "What is the best day to hold a promotion to increase attendance for the Los Angeles Dodgers?"
+description: " - Can we determine the best day to hold a promotion, in order to increase attendance for the Los Angeles Dodgers?"
 category: projects
 author: dougmarcum
 externalLink: false
