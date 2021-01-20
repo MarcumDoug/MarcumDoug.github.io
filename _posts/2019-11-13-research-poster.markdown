@@ -22,6 +22,6 @@ externalLink: false
 
 ---
 
-What is inside?  
+What is inside the GitHub repository?  
 [Poster](hhttps://github.com/MarcumDoug/DSC500_Research_Paper_and_Poster/blob/main/DSC%20500%20Final%20Poster.pdf)  
 [Paper](https://github.com/MarcumDoug/DSC500_Research_Paper_and_Poster/blob/main/DSC%20500%20Final%20Extended%20Abstract.pdf)
