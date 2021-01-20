@@ -9,8 +9,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Research Poster and Paper to explore the impact Daryl Morey has had on the NBA."
-category: projects
+description: " - Research Poster and Paper to explore the impact Daryl Morey has had on the NBA."
 author: dougmarcum
 externalLink: false
 ---
