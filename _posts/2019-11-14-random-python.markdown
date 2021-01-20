@@ -23,7 +23,6 @@ A collection of various python projects I assembled while becoming more comfortb
 
 ---
 
-What is inside?  
- 
+What is inside the GitHub repository?  
 [Code](https://github.com/MarcumDoug/Python_Code_Projects)  
 Projects include: Weather Information, Word Counter, Calculator, Joke Generator 
