@@ -10,7 +10,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "What are the best neighborhoods to open a new brewery in Toronto"
+description: "A project to determine the best neighborhoods to open a new restaurant / brewery in Toronto, based on client specifications."
 category: projects
 author: dougmarcum
 externalLink: false
