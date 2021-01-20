@@ -38,6 +38,6 @@ externalLink: false
 
 ---
 
-What is inside?   
+What is inside the GitHub repository?   
 [Code](https://github.com/MarcumDoug/Restaurant_Neighborhood_Selection/tree/master/Code)   
 [Final Report](https://github.com/MarcumDoug/Restaurant_Neighborhood_Selection/tree/master/Report)
