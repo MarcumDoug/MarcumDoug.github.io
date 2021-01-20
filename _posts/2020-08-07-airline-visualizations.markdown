@@ -24,7 +24,7 @@ externalLink: false
 
 ---
 
-What is inside the GitHub repository? 
+What is inside the GitHub repository?  
 [Dashboard](https://github.com/MarcumDoug/Airline_Safety_Visuals_and_Charting/blob/main/Dashboard/Report%20and%20Dashboard/Marcum_Doug_Dashboard_Project.pdf) - Built in Tableau using data from various sources.  
 [Executive Summary](https://github.com/MarcumDoug/Airline_Safety_Visuals_and_Charting/blob/main/Executive%20Summary/Report%20and%20PowerPoint/Marcum_Doug_DSC640_Executive_Summary.pdf) - Built with Tableau and PowerPoint.  
 [Infographic](https://github.com/MarcumDoug/Airline_Safety_Visuals_and_Charting/tree/main/Infographic/Infographic%20and%20Report) - Built using Tableau, PowerPoint, and various sourced images.  
