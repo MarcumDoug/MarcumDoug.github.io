@@ -12,7 +12,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "An analysis into the adage, Defense Wins Championships, to determine if defense or offense is more impactful."
+description: " - An analysis into the adage, Defense Wins Championships, to determine if defense or offense is more impactful."
 category: projects
 author: dougmarcum
 externalLink: false
