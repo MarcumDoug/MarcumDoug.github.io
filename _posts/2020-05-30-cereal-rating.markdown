@@ -9,7 +9,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Consumer Ratings for Various Breakfast Cereals"
+description: "Breakfast cereal comes in all shapes and sizes, but are there certain features that can predict how a consumer will rate of cereal?"
 category: projects
 author: dougmarcum
 externalLink: false
