@@ -23,7 +23,7 @@ externalLink: false
 
 ---
 
-What is inside the GitHub repository? 
+What is inside the GitHub repository?   
 [Code](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Code)  
 [Data](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Data)  
 [Final Results/Report](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Report)
