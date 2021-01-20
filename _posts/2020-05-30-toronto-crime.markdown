@@ -9,7 +9,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "A report focused on reviewing multiple sources, by different means, to determine various relationships within Toronto."
+description: " - A report focused on reviewing multiple sources, by different means, to determine various relationships within Toronto."
 category: projects
 author: dougmarcum
 externalLink: false
