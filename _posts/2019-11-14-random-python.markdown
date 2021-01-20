@@ -9,7 +9,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Samples of Python coded projects built while learning the fundamentals of the language."
+description: " - Samples of Python coded projects built while learning the fundamentals of the language."
 category: projects
 author: dougmarcum
 externalLink: false
