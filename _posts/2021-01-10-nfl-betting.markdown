@@ -10,7 +10,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Sports gambling is a growing phenomenon, so we explore the utilization of predictive analytics in making wager selections."
+description: " - Sports gambling is a growing phenomenon, so we explore the utilization of predictive analytics in making wager selections."
 category: projects
 author: dougmarcum
 externalLink: false
