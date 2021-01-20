@@ -24,7 +24,7 @@ externalLink: false
 
 ---
 
-What is inside?  
+What is inside the GitHub repository?  
 [Data](https://github.com/MarcumDoug/Breast_Cancer_Analysis_and_Predictions/tree/main/Data)  
 [Code](https://github.com/MarcumDoug/Breast_Cancer_Analysis_and_Predictions/tree/main/Code)  
 [Final Report](https://github.com/MarcumDoug/Breast_Cancer_Analysis_and_Predictions/tree/main/Report%20and%20Presentation)
