@@ -23,7 +23,7 @@ externalLink: false
 
 ---
 
-What is inside?  
+What is inside the GitHub repository? 
 [Data](https://github.com/MarcumDoug/Consumer_Cereal_Ratings/tree/main/Data)  
 [Code](https://github.com/MarcumDoug/Consumer_Cereal_Ratings/tree/main/Code)  
 [Final Results](https://github.com/MarcumDoug/Consumer_Cereal_Ratings/tree/main/Case%20Study)  
