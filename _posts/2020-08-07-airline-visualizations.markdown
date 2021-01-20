@@ -10,7 +10,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Airline Visualizations"
+description: "A collection of various visualizations centered on the topic of Airline Safety."
 category: projects
 author: dougmarcum
 externalLink: false
