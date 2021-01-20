@@ -25,7 +25,7 @@ externalLink: false
 
 ---
 
-What is inside?  
+What is inside the GitHub repository? 
 [Data](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Data)  
 [Exploratory Data Analysis](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/EDA)  
 [Models](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Models)  
