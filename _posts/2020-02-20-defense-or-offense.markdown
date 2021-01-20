@@ -39,7 +39,7 @@ externalLink: false
 
 ---
 
-What is inside the GitHub repository? 
+What is inside the GitHub repository?  
 [Data](https://github.com/MarcumDoug/Defense_Or_Offense_Win_Championships/tree/master/Data)  
 [Code](https://github.com/MarcumDoug/Defense_Or_Offense_Win_Championships/tree/master/Code)   
 [Final Reports](https://github.com/MarcumDoug/Defense_Or_Offense_Win_Championships/tree/master/Reports)
