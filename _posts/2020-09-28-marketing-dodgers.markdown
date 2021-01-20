@@ -27,7 +27,7 @@ R - modeling and analysis
 
 ---
 
-What is inside?  
+What is inside the GitHub repository?  
 [Data](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion/tree/main/Data)  
 [Code](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion/tree/main/Code)   
 [Report](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion/tree/main/Report)
