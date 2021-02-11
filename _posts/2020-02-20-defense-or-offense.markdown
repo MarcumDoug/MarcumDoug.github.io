@@ -37,9 +37,5 @@ externalLink: false
 ## Tools
 <p align="justify">A standard EDA approach was taken. All coding was completed with Python within a Jupyter Notebook.</p>  
 
----
-
-What is inside the GitHub repository?  
-[Data](https://github.com/MarcumDoug/Defense_Or_Offense_Win_Championships/tree/master/Data)  
-[Code](https://github.com/MarcumDoug/Defense_Or_Offense_Win_Championships/tree/master/Code)   
-[Final Reports](https://github.com/MarcumDoug/Defense_Or_Offense_Win_Championships/tree/master/Reports)
+GitHub repository can be found here: [GitHub](https://github.com/MarcumDoug/Defense_Or_Offense_Win_Championships)
+The final report can be found here: [Final Reports](https://github.com/MarcumDoug/Defense_Or_Offense_Win_Championships/tree/master/Reports)
