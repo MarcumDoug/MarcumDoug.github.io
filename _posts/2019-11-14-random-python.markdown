@@ -21,8 +21,6 @@ externalLink: false
 
 A collection of various python projects I assembled while becoming more comfortble with the language.  
 
----
-
-What is inside the GitHub repository?  
-[Projects](https://github.com/MarcumDoug/Python_Code_Projects)  
+ 
+Projects can be found here: [Projects](https://github.com/MarcumDoug/Python_Code_Projects)  
 Projects include: Weather Information, Word Counter, Calculator, Joke Generator 
