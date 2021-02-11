@@ -25,4 +25,5 @@ externalLink: false
 
 GitHub repository can be found here: [GitHub](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis)  
 Final results can be found here: [Final Results](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Results)  
-Final report can be found here: [Reports](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/blob/main/Reports/DSC680_Marcum_Doug_Project1_Final_Report.pdf)
+Final report can be found here: [Reports](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/blob/main/Reports/DSC680_Marcum_Doug_Project1_Final_Report.pdf)  
+Presentation can be found here: [Presentation](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/blob/main/Reports/NFL_Predictive_Analytics_Presentation.pptx)
