@@ -25,9 +25,5 @@ externalLink: false
 Python - EDA and data cleaning  
 R - modeling and analysis  
 
----
-
-What is inside the GitHub repository?  
-[Data](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion/tree/main/Data)  
-[Code](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion/tree/main/Code)   
-[Report](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion/tree/main/Report)
+GitHub repository can be found here: [GitHub](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion)  
+The final report can be found here: [Report](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion/tree/main/Report)
