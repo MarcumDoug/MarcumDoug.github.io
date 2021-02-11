@@ -26,4 +26,4 @@ Python - EDA and data cleaning
 R - modeling and analysis  
 
 GitHub repository can be found here: [GitHub](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion)  
-The final report can be found here: [Report](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion/tree/main/Report)
+The final report can be found here: [Report](https://github.com/MarcumDoug/Case_Study_Marketing_Promotion/blob/main/Report/Marcum_Doug_Dodgers_Marketing_Recommendation.pdf)
