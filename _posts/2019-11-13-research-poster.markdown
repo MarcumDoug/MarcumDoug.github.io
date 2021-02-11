@@ -20,8 +20,5 @@ externalLink: false
 
 <p align="justify">This project was a group assigment designed to introduce us to various elements in the world of data science. The focus was placed on exploring the impact Daryl Morey, former Houston Rockets General Manager, and his utilization of analytics has had on the NBA. The project was not designed for deep analysis of the subject matter, but rather for initial introduction into critical thinking and tackling a topic of exploration.</p>  
 
----
-
-What is inside the GitHub repository?  
 Final Poster can be found here: [Poster](https://github.com/MarcumDoug/DSC500_Research_Paper_and_Poster/blob/main/DSC%20500%20Final%20Poster.pdf)  
 Final Paper can be found here: [Paper](https://github.com/MarcumDoug/DSC500_Research_Paper_and_Poster/blob/main/DSC%20500%20Final%20Extended%20Abstract.pdf)
