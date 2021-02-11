@@ -10,7 +10,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: " - By utilizing Rasa and IMDb, we will explore the creation of a converational movie recommending chatbot. This is a combination of tutorial and exploration into why many still avoid interactring with chatbots."
+description: " - By utilizing Rasa and IMDb data, we will explore the creation of a converational movie recommending chatbot. This is a combination of tutorial and exploration into why many still avoid interactring with chatbots."
 category: projects
 author: dougmarcum
 externalLink: false
