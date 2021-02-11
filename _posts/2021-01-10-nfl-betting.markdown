@@ -23,11 +23,6 @@ externalLink: false
 
 <p align="justify">By analyzing ten, 10, NFL seasons consisting of 256 unique games each season, classification models can be implemented and tested to see if accuracy rates exceeding 52.4% can consistently be processed. If this is successful, future research into other professional arenas (basketball, baseball, soccer, hockey) can be reviewed. Sports betting, once considered to be taboo and sinful, has grown into a true corporate enterprise. Given this overall popularity, the field is just being explored, and the need for data scientist to engage and discover insights will continue to increase. This paper illustrates that machine learning can successfully predict winning and losing teams (approximate accuracy of 65%), as well as provide an edge in predicting if a team will cover a spread or if a game will be under or over an estimated total score.</p>  
 
----
-
-What is inside the GitHub repository?  
-[Data](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Data)  
-[Exploratory Data Analysis](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/EDA)  
-[Models](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Models)  
-[Final Results](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Results)  
-[Reports](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Reports)
+GitHub repository can be found here: [GitHub](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis)  
+Final results can be found here: [Final Results](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Results)  
+Final report can be found here: [Reports](https://github.com/MarcumDoug/NFL_Wagering-Predictive_Analysis/tree/main/Reports)
