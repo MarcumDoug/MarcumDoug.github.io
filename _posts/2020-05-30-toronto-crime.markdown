@@ -39,9 +39,6 @@ externalLink: false
 ## Relationships
 
 <p align="justify">The common relationship running through all three data sets is the neighborhood id (name). This one to many relationship occurs on with each. With this common relationship, there is belief that patterns will emerge across each neighborhood pertaining to crime and different demographics.</p>  
-
----
-What is inside the GitHub repository?  
-[Data](https://github.com/MarcumDoug/Toronto_Crime_Relationships/tree/master/Data)  
-[Code](https://github.com/MarcumDoug/Toronto_Crime_Relationships/tree/master/Code)   
-[Final Results](https://github.com/MarcumDoug/Toronto_Crime_Relationships/blob/master/Code/Marcum_Doug_Milestone_5.ipynb)
+ 
+GitHub repository can be found here: [GitHub](https://github.com/MarcumDoug/Toronto_Crime_Relationships)   
+The final report can be found here: [Final Results](https://github.com/MarcumDoug/Toronto_Crime_Relationships/blob/master/Code/Marcum_Doug_Milestone_5.ipynb)
