@@ -23,4 +23,4 @@ externalLink: false
 
 
 GitHub Repository can be found here: [GitHub](https://github.com/MarcumDoug/Consumer_Cereal_Ratings)  
-The final report can be found here: [Final Results](https://github.com/MarcumDoug/Consumer_Cereal_Ratings/tree/main/Case%20Study)  
+The final report can be found here: [Final Results](https://github.com/MarcumDoug/Consumer_Cereal_Ratings/blob/main/Case%20Study/Marcum_DSC550_CS_Final.pdf)  
