@@ -37,4 +37,4 @@ externalLink: false
 <p align="justify">Additionally, this information could be of interest to other potential investors looking to open a new restaurant or entertainment venue in Toronto.</p>  
 
 GitHub repository can be found here: [GitHub](https://github.com/MarcumDoug/Restaurant_Neighborhood_Selection)  
-Final Report can be found here: [Final Report](https://github.com/MarcumDoug/Restaurant_Neighborhood_Selection/tree/master/Report)
+Final Report can be found here: [Final Report](https://github.com/MarcumDoug/Restaurant_Neighborhood_Selection/blob/master/Report/BOTN%20Report.pdf)
