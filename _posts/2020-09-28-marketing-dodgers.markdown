@@ -1,5 +1,5 @@
 ---
-title: ":baseball: Case Study - Promotions for Los Angeles Dodgers"
+title: ":baseball: Case Study - Promotional Events for the Los Angeles Dodgers"
 layout: post
 date: 2020-09-28 10:00
 tag: 
@@ -18,7 +18,7 @@ externalLink: false
 
 ![Screenshot](/assets/images/dodgers_marketing.png)
 
-## Increasing Attendance for the Los Angeles Dodgers with the right Promotion  
+## Increasing Attendance for the Los Angeles Dodgers with the right promotion  
 
 <p align="justify">Using the Dodgers Major League Baseball data from 2012, analysis was completed to determine which night would be the best to run a marketing promotion to increase attendance.</p>    
 
