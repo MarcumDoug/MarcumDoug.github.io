@@ -18,7 +18,7 @@ dd {
 <ul>
 	<li>Master of Science in Data Science
 	<dd>Bellevue University - Bellevue, NE</dd>
-	<dd>Coursework included: Applied Statistics, Data Exploration and Analysis, Data Preparation, Data Mining, Predictive Analytics, Data Presentation and Visualization, and Big Data</dd></li>
+	<dd><i>Coursework included: Applied Statistics, Data Exploration and Analysis, Data Preparation, Data Mining, Predictive Analytics, Data Presentation and Visualization, and Big Data</i></dd></li>
 	<li>Bachelor of Science in Political Science and Sociology
 	<dd>Ball State University - Muncie, IN</dd></li>
 </ul>
