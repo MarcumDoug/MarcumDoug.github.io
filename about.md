@@ -48,7 +48,7 @@ dd {
 
 <ul>
 	<li>Languages: Python, R, SQL</li>
-	<li>Data Analysis and Wrangling: Numpy, Pandas, Excel, dplyr, tidyr</li>
+	<li>Data Analysis and Wrangling: NumPy, Pandas, Excel, dplyr, tidyr</li>
 	<li>Data Visualization: Matplotlib, Seaborn, Tableau, Plotly, Folium, ggplot2</li>
 	<li>ML Frameworks: Scikit-Learn, TensorFlow, PyTorch</li>
 	<li>Tools: GitHub, PyCharm, Jupyter Notebook, MS Office Suite</li>
