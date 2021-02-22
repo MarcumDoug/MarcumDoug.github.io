@@ -50,7 +50,7 @@ dd {
 	<li>Languages: Python, R, SQL</li>
 	<li>Data Analysis and Wrangling: NumPy, Pandas, Excel, dplyr, tidyr</li>
 	<li>Data Visualization: Matplotlib, Seaborn, Tableau, Plotly, Folium, ggplot2</li>
-	<li>ML Frameworks: Scikit-Learn, TensorFlow, PyTorch</li>
+	<li>ML Frameworks: Scikit-Learn, TensorFlow, Keras, PyTorch</li>
 	<li>Tools: GitHub, PyCharm, Jupyter Notebook, MS Office Suite</li>
 	<li>Big Data Technologies (limited): Hadoop, Spark, PySpark</li>
 </ul>
