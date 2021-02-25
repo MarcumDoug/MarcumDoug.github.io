@@ -65,3 +65,6 @@ dd {
 	<li>Creative and Perceptive Problem Solver </li>
 	<li>Passionate About Continuous Learning</li>
 </ul>
+
+<h2>Email</h2>
+<a href="mailto:cdmarcum@mac.com">Click Here to Email Me</a>
