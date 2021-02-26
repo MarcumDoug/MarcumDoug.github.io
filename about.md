@@ -66,5 +66,4 @@ dd {
 	<li>Devoted Continuous Learning</li>
 </ul>
 
-<h2>Email</h2>
-<a href="mailto:cdmarcum@mac.com">Click Here to Email Me</a>
+<h2><a href="mailto:cdmarcum@mac.com">Email Me!</a></h2>
