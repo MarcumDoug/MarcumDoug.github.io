@@ -61,9 +61,9 @@ dd {
 	<li>Effective Communication and Deadline Management</li>
 	<li>Leadership and Stakeholder Management</li>
 	<li>Project Management and Oversight</li>
-	<li>Extensive Talent Acquisition Background</li>
+	<li>Talent Acquisition Background - Technical and Executive</li>
 	<li>Creative and Perceptive Problem Solver </li>
-	<li>Passionate About Continuous Learning</li>
+	<li>Devoted Continuous Learning</li>
 </ul>
 
 <h2>Email</h2>
