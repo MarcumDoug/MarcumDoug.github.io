@@ -21,5 +21,5 @@ externalLink: false
 
 <p align="justify">The league does a tremendous job of staying ahead of the curve in advanced analytics. Still, when deciding the most valuable player (MVP), they leave everything to 100 NBA selected media members' opinions. Additionally, the league does not provide any criteria for selecting or voting. Without a defined criterion, the argument for MVP is debated year after year. The purpose of this project is to see if there is an unwritten criterion being followed, and once determined, can it be used to predict future MVPs.</p>  
   
-GitHub repositry can be found here: [GitHub](https://github.com/MarcumDoug/NBA_MVP_Prediction)  
+GitHub repository can be found here: [GitHub](https://github.com/MarcumDoug/NBA_MVP_Prediction)  
 The final report can be found here: [Final Results/Report](https://github.com/MarcumDoug/NBA_MVP_Prediction/tree/main/Report)
