@@ -1,5 +1,5 @@
 ---
-title: ":money bag: Bitcoin Sentiment Analysis and Market Predictions"
+title: ":moneybag: Bitcoin Sentiment Analysis and Market Predictions"
 layout: post
 date: 2021-03-06 16:30
 tag: 
