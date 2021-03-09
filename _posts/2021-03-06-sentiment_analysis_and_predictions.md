@@ -15,6 +15,7 @@ description: " – The cryptocurrency Bitcoin is challenging our notions on what
 author: dougmarcum
 externalLink: false
 ---
+
 ![Screenshot](/assets/images/ bitcoin_sentiment.png)
 
 ## Bitcoin Sentiment Analysis and Market Predictions  
