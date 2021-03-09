@@ -23,4 +23,4 @@ externalLink: false
 
 GitHub repository can be found here: [GitHub](https://github.com/MarcumDoug/Chatbot_Movie_Recommendation)  
 The final report can be found here: [Final Report](https://github.com/MarcumDoug/Chatbot_Movie_Recommendation/blob/main/Reports/DSC680_Marcum_Doug_Project2_Report.pdf)  
-Presenation can be found here: [Presentation](https://github.com/MarcumDoug/Chatbot_Movie_Recommendation/blob/main/Reports/Marcum_Doug_Recommendation_Chatbot_Presentation.zip?raw=true)
+Presentation can be found here: [Presentation](https://github.com/MarcumDoug/Chatbot_Movie_Recommendation/blob/main/Reports/Marcum_Doug_Recommendation_Chatbot_Presentation.zip?raw=true)
