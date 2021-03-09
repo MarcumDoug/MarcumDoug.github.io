@@ -11,7 +11,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: " – The cryptocurrency Bitcoin is challenging our notions on what constitutes a currency or an asset. Are powerful investors manipulating the market by unregulated commentary on Twitter? Can we predict the wild volatile swings regarding Bitcoin pricing?"
+description: " – The cryptocurrency Bitcoin is challenging our notions on what constitutes a currency or an asset. Are powerful investors manipulating the market by unregulated commentary on Twitter? Can we predict the volatile swings regarding Bitcoin pricing?"
 author: dougmarcum
 externalLink: false
 ---
